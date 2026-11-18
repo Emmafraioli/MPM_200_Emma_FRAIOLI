@@ -2,7 +2,8 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+This project analyzes hummingbird admission data from a wildlife rehabilitation center. The code cleans the raw dataset, filters missing values, and groups records by species and admission dates. Key functionalities include calculating summary statistics and visualizing trends over time. The script generates data tables and plots showing birds outcomes and seasonal patterns. These outputs help identify factors affecting hummingbird survival rates.
+
 
 ## Project Organization
 ------------
